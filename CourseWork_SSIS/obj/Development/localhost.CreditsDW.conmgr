@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.CreditsDW"
+  DTS:DTSID="{CA4B745D-9113-47C2-942D-1F0EAC8707EC}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=localhost;Initial Catalog=CreditsDW;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-CourseWork_SSIS-{CA4B745D-9113-47C2-942D-1F0EAC8707EC}localhost.CreditsDW;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

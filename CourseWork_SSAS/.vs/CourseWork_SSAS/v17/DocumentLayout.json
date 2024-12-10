@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A947701-6219-42AD-852C-17C5F6FBEBE6}|CourseWork_SSAS.dwproj|C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Credits DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{6A947701-6219-42AD-852C-17C5F6FBEBE6}|CourseWork_SSAS.dwproj|solutionrelative:Credits DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A947701-6219-42AD-852C-17C5F6FBEBE6}|CourseWork_SSAS.dwproj|C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{6A947701-6219-42AD-852C-17C5F6FBEBE6}|CourseWork_SSAS.dwproj|solutionrelative:Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A947701-6219-42AD-852C-17C5F6FBEBE6}|CourseWork_SSAS.dwproj|C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Dim Repayment Schedule.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{6A947701-6219-42AD-852C-17C5F6FBEBE6}|CourseWork_SSAS.dwproj|solutionrelative:Dim Repayment Schedule.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A947701-6219-42AD-852C-17C5F6FBEBE6}|CourseWork_SSAS.dwproj|C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Dim Clients.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{6A947701-6219-42AD-852C-17C5F6FBEBE6}|CourseWork_SSAS.dwproj|solutionrelative:Dim Clients.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A947701-6219-42AD-852C-17C5F6FBEBE6}|CourseWork_SSAS.dwproj|C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Dim Credit Contracts.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{6A947701-6219-42AD-852C-17C5F6FBEBE6}|CourseWork_SSAS.dwproj|solutionrelative:Dim Credit Contracts.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A947701-6219-42AD-852C-17C5F6FBEBE6}|CourseWork_SSAS.dwproj|C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Credits DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{6A947701-6219-42AD-852C-17C5F6FBEBE6}|CourseWork_SSAS.dwproj|solutionrelative:Credits DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Credits DW.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Credits DW.dsv",
+              "RelativeDocumentMoniker": "Credits DW.dsv",
+              "ToolTip": "C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Credits DW.dsv [Design]",
+              "RelativeToolTip": "Credits DW.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-10T18:38:10.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Repayment Schedule.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Dim Repayment Schedule.dim",
+              "RelativeDocumentMoniker": "Dim Repayment Schedule.dim",
+              "ToolTip": "C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Dim Repayment Schedule.dim [Design]",
+              "RelativeToolTip": "Dim Repayment Schedule.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-10T12:58:45.166Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Clients.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Dim Clients.dim",
+              "RelativeDocumentMoniker": "Dim Clients.dim",
+              "ToolTip": "C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Dim Clients.dim [Design]",
+              "RelativeToolTip": "Dim Clients.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-10T12:58:33.741Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Dim Date.dim",
+              "ToolTip": "C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-10T12:58:17.029Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Credit Contracts.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Dim Credit Contracts.dim",
+              "RelativeDocumentMoniker": "Dim Credit Contracts.dim",
+              "ToolTip": "C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Dim Credit Contracts.dim [Design]",
+              "RelativeToolTip": "Dim Credit Contracts.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-10T12:58:26.282Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Credits DW.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Credits DW.cube",
+              "RelativeDocumentMoniker": "Credits DW.cube",
+              "ToolTip": "C:\\Users\\admin\\Personal use\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041D\u0430\u0434\u0432\u0435\u043B\u0438\u043A\u0456 \u0431\u0430\u0437\u0438 \u0434\u0430\u043D\u0438\u0445\\Course work\\CourseWork_SSAS\\Credits DW.cube [Design]",
+              "RelativeToolTip": "Credits DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-10T12:58:07.53Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
